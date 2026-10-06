@@ -1,0 +1,8 @@
+.vscode/
+*.tmp
+*.log
+*.bak
+.env
+.venv/
+__pycache__/
+*.pyc
